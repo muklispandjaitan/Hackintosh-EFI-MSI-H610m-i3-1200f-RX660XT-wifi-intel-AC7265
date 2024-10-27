@@ -10,3 +10,4 @@
 | **RAM**        | `Klevv 32GB 3200mhz`                                             |
 | **Storage**    | `Kingston 240GB SATA SSD`                                        |
 | **dGPU**       | `Asus Dual RX 6600 XT 8GB`                                       |
+| **Wifi&BT**    | `Intel Dual Band AC-7265`                                        |
