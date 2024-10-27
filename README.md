@@ -1,0 +1,1 @@
+# Hackintosh-EFI-MSI-H610m-i3-1200f-RX660XT-wifi-intel7265
